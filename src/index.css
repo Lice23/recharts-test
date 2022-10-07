@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.chart {
+  height: 100%;
+  min-height: 500px;
+}
+
+.title {
+  text-align: center;
+}
